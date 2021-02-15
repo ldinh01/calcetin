@@ -1,0 +1,72 @@
+.hi {
+    
+    font-family: nimbus-sans, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: nimbus-sans, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #363A3F;
+    
+    
+}
+
+
+
+
+.About {
+    
+    background-color: #ffffff;
+    color: #363A3F;
+    padding-left: 240px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: nimbus-sans, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    
+    
+    
+      
+}
+
+.verticalline {
+    
+    border-left: 6px #000000;
+    width: 0;
+    height: 420px;
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    
+}
+
+.paragraph1 {
+    
+    background-color: #FDEDEC;
+    background-size: 400x600px; 
+    color: #565B64;
+    max-width: 700px;
+    min-width: 700px;
+    padding-top: 5px;
+    padding-left: 400px;
+    padding-bottom: 5px;
+    font-family: nimbus-sans, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:  14px;
+    line-height: 1.4;
+    vertical-align: top;
+ 
+    
+
+
+  
+    
+    
+    
+}
